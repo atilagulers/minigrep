@@ -1,0 +1,192 @@
+Astra
+
+Class: Controller
+Skills:
+Gravity Well: Place stars in Astral form that can be activated to create a gravity well that pulls players in.
+Nova Pulse: Place stars in Astral form that can be activated to detonate a pulse that concusses all players in its area.
+Nebula: Place stars in Astral form that can be activated to transform into a smoke cloud.
+Astral Form / Cosmic Divide: Enter Astral form to place stars. When Cosmic Divide is charged, use it to create a massive wall that blocks bullets and heavily dampens audio.
+Breach
+
+Class: Initiator
+Skills:
+Aftershock: Equip a fusion charge. Fire the charge to set a slow-activating burst through a wall. The burst does heavy damage to anyone caught in its area.
+Flashpoint: Equip a blinding charge. Fire the charge to set a fast-acting burst through a wall. The charge detonates to blind all players looking at it.
+Fault Line: Equip a seismic blast. Hold Fire to increase the distance. Release to set off a quake, dazing all players in its zone.
+Rolling Thunder: Equip a seismic charge. Fire to send a cascading quake through all terrain in a large cone. The quake dazes and knocks up anyone caught in it.
+Brimstone
+
+Class: Controller
+Skills:
+Incendiary: Launch an incendiary grenade that deploys a damaging field of fire.
+Stim Beacon: Deploy a beacon that grants players RapidFire.
+Sky Smoke: Use your map to call in orbital deployment smokescreens. Click to set the locations, and confirm to launch.
+Orbital Strike: Use your map to target a location, launching a devastating orbital strike that pulses for high damage over several seconds.
+Chamber
+
+Class: Sentinel
+Skills:
+Trademark: Place a trap that scans for enemies. When a visible enemy comes in range, the trap counts down and then destabilizes the terrain around them, creating a lingering field that slows players caught inside of it.
+Headhunter: Activate to equip a heavy pistol. Alt fire with the pistol equipped to aim down sights.
+Rendezvous: Place two teleport anchors. While on the ground and in range of an anchor, reactivate to quickly teleport to the other anchor. Anchors can be picked up to be redeployed.
+Tour de Force: Activate to summon a powerful, custom sniper rifle that will kill an enemy with any direct hit. Killing an enemy creates a lingering field that slows players caught inside of it.
+Cypher
+
+Class: Sentinel
+Skills:
+Trapwire: Place a tripwire between two walls. Trapped enemies are tethered, revealed, and dazed for a short period of time. If the trap is not destroyed, it activates to daze the trapped victim.
+Cyber Cage: Toss out a remote activation trap. Reactivate to create a cage that slows enemies who pass through it. Look at a trap and press Use to detonate it, or hold Activate to detonate all.
+Spycam: Place a remote camera. After placing, reactivate to view the video feed. Left click while in camera mode to fire a tracking dart.
+Neural Theft: Extract information from the corpse of an enemy, revealing the location of their living allies.
+Deadlock
+
+Class: Sentinel
+Skills:
+GravNet: Throw a grenade that explodes and releases a net, forcing enemies hit by it to crouch and move slowly.
+Sonic Sensor: Deploy a sensor that listens for sounds made by enemies. Concusses enemies in its range after hearing steps, shots, or abilities used.
+Barrier Mesh: Throw a disc that generates barriers that block player movement.
+Annihilation: Fire a pulse that traps the first enemy hit in a cocoon of nanowires, pulling them along a path. If the captive reaches the end of the path, they die.
+Fade
+
+Class: Initiator
+Skills:
+Prowler: Send out a creature that travels in a straight line, looking for enemies and obstacles. Upon finding an enemy, it nearsights them.
+Seize: Throw an orb that sticks in place, creating a zone that traps and deafens enemies.
+Haunt: Throw an orb that reveals the location of enemies caught in its line of sight.
+Nightfall: Send out a wave of dark mist. If the mist comes in contact with an enemy, they are deafened, decayed, and tracked.
+Gekko
+
+Class: Initiator
+Skills:
+Mosh Pit: Throw a grenade that explodes and spreads, dealing damage to anyone caught in the area.
+Wingman: Send out a creature to concuss enemies it encounters.
+Dizzy: Send out a creature that charges up and unleashes plasma blasts at enemies in its line of sight, blinding them.
+Thrash: Send out a creature that you can control to detonate and detain enemies.
+Harbor
+
+Class: Controller
+Skills:
+Cascade: Equip a wave of water. Fire to send the wave rolling forward and through walls. Re-use to stop the wave. Players hit are slowed.
+Cove: Equip a sphere of shielding water. Fire to throw. Alt Fire to underhand throw. Upon impacting the ground, spawn a destructible water shield that blocks bullets.
+High Tide: Equip a wall of water. Fire to send the water forward along the ground. Hold Fire to guide the water in the direction of your crosshair, passing through the world. Alt Fire while bending to stop the water early. Players hit are slowed.
+Reckoning: Equip the full power of your Artifact. Fire to summon a geyser pool on the ground. Enemy players in the area are targeted by successive geyser strikes. Players caught within a strike are concussed.
+ISO
+
+Class: Duelist
+Skills:
+Unseen: Become invisible for a short period.
+Shrouded Step: Instantly teleport a short distance.
+Paranoia: Send out an ethereal shadow in a straight line, Nearsighting and Deafening all it touches.
+Dementia: Create a clone of yourself that moves towards the nearest enemy, exploding for massive damage when killed.
+Jett
+
+Class: Duelist
+Skills:
+Cloudburst: Instantly throw a projectile that expands into a brief vision-blocking cloud on impact with a surface.
+Updraft: Instantly propel Jett high into the air.
+Tailwind: Instantly propel Jett in the direction she is moving.
+Blade Storm: Equip a set of highly accurate throwing knives. Fire to throw a single knife and alt fire to throw all remaining knives. Restores on kill.
+KAY/O
+
+Class: Initiator
+Skills:
+FRAG/ment: Throw an explosive fragment that sticks to the floor and explodes multiple times, dealing near-lethal damage at the center.
+FLASH/drive: Throw a flash grenade that explodes after a short fuse, blinding anyone in line of sight.
+ZERO/point: Throw a suppression blade that sticks to surfaces and suppresses anyone in the radius of the explosion.
+NULL/cmd: Enter an overloaded state, emitting pulses that suppress enemies. If KAY/O is downed, he can be revived by allies.
+Killjoy
+
+Class: Sentinel
+Skills:
+Nanoswarm: Throw a grenade that, upon landing, goes covert. Activate the Nanoswarm to deploy a swarm of nanobots that deal damage.
+Alarmbot: Deploy a bot that hunts down enemies who get in range. Upon reaching its target, the bot explodes, applying a debuff to all enemies.
+Turret: Deploy a turret that fires at enemies in a 180-degree cone.
+Lockdown: Deploy the device. After a long windup, the device detains all enemies caught in the radius.
+Neon
+
+Class: Duelist
+Skills:
+High Gear: Instantly channel Neon’s power for increased speed. When charged, Alt Fire to trigger an electric slide. Slide charge resets every two kills.
+Relay Bolt: Instantly throw an energy bolt that bounces once. Upon hitting each surface, the bolt electrifies the ground below with a concussive blast.
+Fast Lane: Fire two energy lines forward on the ground that extend a short distance or until they hit a surface. The lines rise into walls of static electricity that block vision and damage enemies passing through them.
+Overdrive: Unleash Neon’s full power and speed for a short duration. Fire to channel the power into a deadly lightning beam with high movement accuracy.
+Omen
+
+Class: Controller
+Skills:
+Shrouded Step: After a delay, dematerialize and teleport to a short distance.
+Paranoia: Send out an ethereal shadow in a straight line, Nearsighting all players it touches.
+Dark Cover: Cast out a stealthed ethereal orb that bursts into an obscuring sphere of shadow at its final location.
+From the Shadows: Select anywhere on the map to teleport and reform. Upon arriving, appear as a Shade, which will return to your original location if killed. When the teleport is complete, become incorporeal for a short time.
+Phoenix
+
+Class: Duelist
+Skills:
+Hot Hands: Throw a fireball that explodes after a delay or upon impact with the ground. The fire zone damages enemies and heals you.
+Blaze: Cast a flame wall that blocks vision and damages anyone passing through it.
+Curveball: Cast a curving flare orb that bursts into brilliant light after a brief delay, blinding all who see it.
+Run It Back: Mark your current location. If you die during this ability’s duration, or when this ability’s duration expires, you’ll be reborn at the marked location with full health.
+Raze
+
+Class: Duelist
+Skills:
+Boom Bot: Deploy a bot that travels in a straight line, bouncing off walls. The bot locks onto any enemies in its frontal cone and chases them, exploding for heavy damage if it reaches them.
+Blast Pack: Instantly throw a Blast Pack that sticks to surfaces. Re-use the ability after deployment to detonate, damaging and moving anything hit.
+Paint Shells: Throw a cluster grenade that deals damage and creates sub-munitions, each doing damage to anyone in their range.
+Showstopper: Equip a rocket launcher. Fire to launch a rocket that does massive area damage on contact with anything.
+Reyna
+
+Class: Duelist
+Skills:
+Leer: Cast an ethereal, destructible orb forward. The orb Nearsights all enemies who look at it.
+Devour: Consume the life force of a killed enemy to restore your health. Can be used on a Soul Orb, left by enemies Reyna kills.
+Dismiss: Instantly consume a Soul Orb to become intangible for a short duration.
+Empress: Instantly enter a frenzy, increasing firing speed, equip and reload speed dramatically. Scoring a kill renews the duration.
+Sage
+
+Class: Sentinel
+Skills:
+Barrier Orb: Conjure a large, solid wall. Right click rotates the wall before casting.
+Slow Orb: Cast out a radianite orb that breaks into a slowing field upon impact with the ground. All caught in the field are slowed, grounded, and make noise when moving.
+Healing Orb: Heal an ally or yourself to full health over a few seconds.
+Resurrection: Target a friendly corpse. After a short delay, revive them with full health.
+Skye
+
+Class: Initiator
+Skills:
+Regrowth: Channel to heal allies in range and line of sight. Can be reused until her healing pool is depleted.
+Trailblazer: Equip and send out a Tasmanian tiger trinket. Fire to send it forward, controlling the predator. Once active, fire to leap forward and explode in a concussive blast, damaging and dazing enemies directly hit.
+Guiding Light: Equip a hawk trinket. Fire to send it forward. Hold fire to guide it in the direction of your crosshair. Reuse while the hawk is in flight to transform it into a flash.
+Seekers: Send out three Seekers to track down the three closest enemies. If a Seeker reaches its target, it nearsights them.
+Sova
+
+Class: Initiator
+Skills:
+Shock Bolt: Fire an explosive bolt that emits a pulse of static energy upon impact.
+Recon Bolt: Fire a bolt that deploys a sonar emitter, revealing enemies caught in the line of sight of the bolt. Can be destroyed.
+Owl Drone: Deploy a pilotable drone that can fire a dart that reveals enemies hit.
+Hunter’s Fury: Fire up to three deadly energy blasts that spear across the entire map. Each hit enemy takes heavy damage and is marked.
+Viper
+
+Class: Controller
+Skills:
+Snake Bite: Fire a canister that shatters upon impact, creating a chemical zone that damages and applies Vulnerable.
+Poison Cloud: Throw a gas emitter that you can reactivate to create a toxic gas cloud. This can be redeployed.
+Toxic Screen: Deploy a long line of gas emitters. Reactivate to create a tall wall of toxic gas.
+Viper’s Pit: Create a large cloud that reduces the vision range and maximum health of enemies inside of it.
+Yoru
+
+Class: Duelist
+Skills:
+Fakeout: Equip an echo that mimics footsteps when activated. Fire to activate and send the echo forward. Alt fire to place an echo in place.
+Blindside: Throw a flash grenade that bounces off surfaces before detonating, blinding all enemies in line of sight.
+Gatecrash: Equip a translocator beacon. Fire to send the beacon forward. Alt fire to place a beacon in place. Activate to teleport to the beacon’s location.
+Dimensional Drift: Equip a mask that allows you to see between dimensions. Fire to drift into Yoru’s dimension, making you unable to be affected or seen by enemies.
+Clove
+
+Class: Controller
+Skills:
+Toxic Bolt: Fire a bolt that explodes into a damaging field of poison.
+Venom Orb: Throw an orb that creates a cloud of poison gas on impact.
+Noxious Screen: Deploy a wall of poison gas emitters. Activate to create a high wall of toxic gas.
+Corrosive Charge: Release a blast of corrosive acid that damages and decays enemies.
